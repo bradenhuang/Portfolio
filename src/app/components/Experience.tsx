@@ -27,8 +27,6 @@ const Experience = () => {
                 <li>Successfully migrated the application from deprecated Lens Protocol V1 to Lens V2</li>
                 <li>Identified and fixed bugs to enhance user experience</li>
               </ul>
-              <div className='mt-4 text-base md:text-lg'>
-              </div>
             </div>
           </div>
         </a>
